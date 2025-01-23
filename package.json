@@ -1,7 +1,7 @@
 {
   "name": "sigma-web-development",
   "version": "1.0.0",
-  "description": "This repository holds my notes and code for the sigma web developement course by code with harry. This repo mainly holds the code for node js, express js and mongo dp (Mainly Backend development and React).",
+  "description": "This repository holds my notes and code for the sigma web development course by code with harry. This repo mainly holds the code for node js, express js and mongo dp (Mainly Backend development and React).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
